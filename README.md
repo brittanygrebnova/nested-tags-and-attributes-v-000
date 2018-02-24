@@ -52,7 +52,7 @@ attribute) and/or classification (`class` attribute). The `id` attribute is
 used to uniquely identify an element within the whole document. The `class`
 attribute is used to group together similar elements.
 
-Both `<id>` and `<class>` attributes are often used for styling purposes since they allows us to find a specific element or style similar elements with a single style declaration.
+Both `<id>` and `<class>` attributes are often used for styling purposes since they allow us to find a specific element or style similar elements with a single style declaration.
 
 ```html
 	<p id='main_paragraph'>This element can be uniquely identified  using the 'main_paragraph' id HTML attribute</p>
